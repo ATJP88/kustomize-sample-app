@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: the-map
 data:
-  mysqlDB: "Hi This is Kustom app"
+  mysqlDB: "staging-mysql.example.com:3306"
