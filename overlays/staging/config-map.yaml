@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: the-map
 data:
-  mysqlDB: "This Kustom deployed from ArgoCD"
+  mysqlDB: "This Kustom deployed from ArgoCD- new"
